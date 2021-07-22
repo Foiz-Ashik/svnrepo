@@ -4,7 +4,8 @@ Step 1:
 First create a directory for the repo
 
 
-![svn1](https://user-images.githubusercontent.com/77127829/126575504-06fa07f9-56ab-4c93-8902-7d9104cb0b7c.png
+![svn1](https://user-images.githubusercontent.com/77127829/126575877-51cc0ef9-eed0-4246-9977-4dcbad0c0c17.png)
+
 
 
 Step 2: Create a test file: 
